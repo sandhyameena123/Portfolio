@@ -15,9 +15,9 @@ function Project() {
 
           {/* IMAGE */}
           <img
-            src="src/assets/1.jpg"
+            src="/assets/1.jpg"
             alt="project"
-            className="w-full h-[250px] object-cover group-hover:scale-110 transition duration-500"
+            className="w-full -[250px] object-cover group-hover:scale-110 transition duration-500"
           />
 
           {/* OVERLAY */}
@@ -45,7 +45,7 @@ function Project() {
         {/* CARD 2 */}
         <div className="group relative rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="src/assets/showing-cart-trolley-shopping-online-sign-graphic.jpg"
+            src="/assets/showing-cart-trolley-shopping-online-sign-graphic.jpg"
             className="w-full h-[250px] object-cover group-hover:scale-110 transition duration-500"
           />
 
@@ -69,7 +69,7 @@ function Project() {
         {/* CARD 3 */}
         <div className="group relative rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="src/assets/tree-desert-white-clouds-daytime.jpg"
+            src="/assets/tree-desert-white-clouds-daytime.jpg"
             className="w-full h-[250px] object-cover group-hover:scale-110 transition duration-500"
           />
 

@@ -46,7 +46,7 @@ function Home() {
     {/* RIGHT SIDE */}
     <div className="md:w-1/2 flex justify-center mt-10 md:mt-0">
       <img
-        src="src/assets/1.jpg"
+        src="/assets/1.jpg"
         alt="profile"
         className="w-[300px] h-[300px] object-cover rounded-full border-4 border-white shadow-lg"
       />
