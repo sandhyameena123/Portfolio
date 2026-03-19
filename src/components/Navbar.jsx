@@ -1,8 +1,8 @@
 function Navbar() {
   return (
-    <nav className="bg-gray-900 text-white flex justify-center max-w-[1600px]">
+    <nav className="max-w-[1600px] mx-auto bg-gray-900 text-white flex justify-center ">
 
-      <div className="w-[90%]  flex justify-between items-center py-4">
+      <div className="w-[90%]  flex justify-between items-center py-4 justify-items-center">
 
         {/* Logo */}
         <h1 className="text-xl font-bold">
